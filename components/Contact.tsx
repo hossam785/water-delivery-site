@@ -214,7 +214,10 @@ export default function Contact() {
                 <p className="text-blue-200 text-[10px] font-black">تغطية النطاق اللوجستي للموقع</p>
                 <p className="font-bold text-xs mt-0.5 truncate">المملكة العربية السعودية، مدينة الرياض برمتها</p>
               </div>
-            </div>
-          </div>
-
-        </div>
+            </div> 
+          </div> 
+        </div> 
+      </div> 
+    </section>
+  );
+}
