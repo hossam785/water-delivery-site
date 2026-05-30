@@ -11,8 +11,8 @@ export default function Hero({ phone }: { phone: string }) {
       <div className="container mx-auto px-5 text-center relative z-10 max-w-4xl">
         
         <h1 className="text-3xl sm:text-5xl md:text-6xl font-black text-white mb-6 leading-[1.2] tracking-tight">
-          توصيل مياه شرب ونظيفة <br />
-          <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">بجميع أحياء الرياض</span>
+         وايت مياه تحليه ٦طن صالحه للشرب <br />
+          <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent"> غرب وجنوب الرياض</span>
         </h1>
         
         <p className="text-sm md:text-xl text-slate-400 font-medium mb-12 max-w-2xl mx-auto leading-relaxed">
